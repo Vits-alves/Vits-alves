@@ -1,9 +1,5 @@
 ### Olá! Eu sou a Vitoria
 
-- 🔭 Hoje eu sou estagiaria na área de desenvolvimento
-- 🌱 Estudando React
-- 😄 Pronouns: ela/dela
-
 <div>
   <a href="https://github.com/vits-alves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vits-alves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
